@@ -1,0 +1,1 @@
+This is a flask social web blog with user authentications and posts .It consists of crud.Checkout my requirements.txt for the packages installed.
